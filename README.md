@@ -1,59 +1,44 @@
 ## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+Dynamic Data Security in Cloud Environments Using Advanced Encryption Standard Techniques
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+With the advent of cloud computing, cloud servers offer to their clients (cloud users) various services that include delegation of huge amounts of computation and outsourcing large amounts of data. For example, a client having a smartphone with a low-performance processor or limited storage cannot accomplish heavy computation or store large volumes of data. Under such circumstances, the user can delegate her computation/storage to the cloud server. Types of cloud computing – PUBLIC, PRIVATE, and HYBRID
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
-
+- Safeguard sensitive information stored and processed in the cloud against unauthorized access and data breaches.
+- Develop a framework that adapts to varying security requirements, ensuring data remains secure while accessible to authorized users.
+- Address challenges related to key generation, distribution, and storage to improve overall security without compromising usability.
+  
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+* Data Collection
+* Data Preprocessing
+* AES Encryption Model Development
+* Cloud Security Framework Development
+* Integration and Testing
+* Deployment and Maintenance 
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
-
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
-
+![image](https://github.com/user-attachments/assets/9c6f5a3a-5a67-43d5-8469-d201d58ce514)
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Name of the output
-
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+![image](https://github.com/user-attachments/assets/db4f8d11-71e7-4275-9eb2-fafa4ba7ddcf)
+![image](https://github.com/user-attachments/assets/f0fa27af-dcec-44dc-9819-f135b244017d)
+![image](https://github.com/user-attachments/assets/51e39647-1b13-418f-9400-47fb53a897dc)
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
-
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
-
+![image](https://github.com/user-attachments/assets/63e5740c-c0f7-4bdc-90c8-276159919b23)
+![image](https://github.com/user-attachments/assets/519db65d-bf30-4630-8c29-c3e0b10acacc)
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
-
+- A more efficient SNC protocol can give us a DSCS protocol with better efficiency.
+- We have also identified certain SNC protocols suitable for append-only data and constructed an efficient DSCS protocol (DSCS II) for append only data.
+  
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
-
-
+1. Department of Homeland Security, “Binding Operational Directive 20-01: Develop and Publish a Vulnerability Disclosure Policy,” (2020).
+2. Cybersecurity and Infrastructure Security Agency. “CISA Zero Trust Maturity Model,” (2021) 
 
 
